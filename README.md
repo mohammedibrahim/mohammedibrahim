@@ -31,6 +31,7 @@ Currently building AI-powered product features and data platform solutions. Pass
 | Project | Description | Stack |
 |---------|-------------|-------|
 | [Launchpad](https://launchpad.mibrah.im) | AI-powered job search engine — fetches jobs, matches against CV, generates cover letters | Python, FastAPI, Vue.js, PostgreSQL, Groq AI |
+| [react-native-paytabs](https://github.com/mohammedibrahim/react-native-paytabs) | React Native integration for PayTabs Mobile SDKs | React Native, Objective-C |
 
 ---
 
